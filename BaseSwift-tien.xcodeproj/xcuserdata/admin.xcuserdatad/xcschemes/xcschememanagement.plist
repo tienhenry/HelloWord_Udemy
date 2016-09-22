@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Hello Word.xcscheme</key>
+		<key>BaseSwift-tien.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>84B59C481D839AC00046D94F</key>
+		<key>8418388F1D8A9E3400F04E9E</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "84B59C481D839AC00046D94F"
-               BuildableName = "Hello Word.app"
-               BlueprintName = "Hello Word"
-               ReferencedContainer = "container:Hello Word.xcodeproj">
+               BlueprintIdentifier = "8418388F1D8A9E3400F04E9E"
+               BuildableName = "BaseSwift-tien.app"
+               BlueprintName = "BaseSwift-tien"
+               ReferencedContainer = "container:BaseSwift-tien.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "84B59C481D839AC00046D94F"
-            BuildableName = "Hello Word.app"
-            BlueprintName = "Hello Word"
-            ReferencedContainer = "container:Hello Word.xcodeproj">
+            BlueprintIdentifier = "8418388F1D8A9E3400F04E9E"
+            BuildableName = "BaseSwift-tien.app"
+            BlueprintName = "BaseSwift-tien"
+            ReferencedContainer = "container:BaseSwift-tien.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "84B59C481D839AC00046D94F"
-            BuildableName = "Hello Word.app"
-            BlueprintName = "Hello Word"
-            ReferencedContainer = "container:Hello Word.xcodeproj">
+            BlueprintIdentifier = "8418388F1D8A9E3400F04E9E"
+            BuildableName = "BaseSwift-tien.app"
+            BlueprintName = "BaseSwift-tien"
+            ReferencedContainer = "container:BaseSwift-tien.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "84B59C481D839AC00046D94F"
-            BuildableName = "Hello Word.app"
-            BlueprintName = "Hello Word"
-            ReferencedContainer = "container:Hello Word.xcodeproj">
+            BlueprintIdentifier = "8418388F1D8A9E3400F04E9E"
+            BuildableName = "BaseSwift-tien.app"
+            BlueprintName = "BaseSwift-tien"
+            ReferencedContainer = "container:BaseSwift-tien.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
